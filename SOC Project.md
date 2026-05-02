@@ -1,8 +1,3 @@
----
-title: SOC Project
-
----
-
 # 🛡️ SIEM Home Lab Walkthrough – Splunk, Sysmon & Windows Security Logging
 
 This document outlines the process of building a functional home SIEM lab using Splunk and Windows logging tools. It is written as technical lab notes, focusing on setup, troubleshooting, and security monitoring workflows.
