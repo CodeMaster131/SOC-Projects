@@ -32,7 +32,7 @@ After installation, Splunk Web was verified locally:
 `http://127.0.0.1:8000`
 
 This confirmed that the Splunk service was running correctly.
-![Alt text](https://hackmd.io/_uploads/SycdIii6-e.png)
+![image](https://hackmd.io/_uploads/SycdIii6-e.png)
 
 ---
 
